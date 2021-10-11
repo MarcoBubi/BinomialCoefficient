@@ -1,32 +1,54 @@
-# Prerequisites
-*.d
+bin/
+build/
+.gradle
+.idea
+ipch
+utils/Omni/bin/
+utils/resbuilder/
+__pycache__/
+.vscode/settings.json
+macros.json
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
+*.aps
+*.opendb
+*.ncb
+*.iml
+*.sdf
+*.opensdf
+*.suo
+*.user
 *.obj
-
-# Precompiled Headers
-*.gch
-*.pch
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
+*.ilk
 *.lib
-
-# Executables
 *.exe
-*.out
-*.app
+*.dll
+*.exp
+*.pdb
+*.idb
+*.VC.db
+*.log
+*.tlog
+*.lastbuildstate
+*.unsuccessfulbuild
+*.ipch
+*.dep
+*.res
+*.embed.manifest
+*.pyc
+*.sublime-workspace
+.DS_Store
+BuildLog.htm
+Thumbs.db
+log.htm
+GfxFileInfo.xml
+
+*.so
+*.a
+*.o
+*.o.d
+
+*.patch
+*.diff
+
+.vs
+*.log
