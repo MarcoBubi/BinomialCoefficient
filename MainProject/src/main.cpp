@@ -5,7 +5,7 @@
 int main()
 {
     BinomialCoefficientCalculator calculator;
-    uint64_t n = 35, k = 14;
+    uint64_t n = 30, k = 14;
 
     auto startTimer = std::chrono::high_resolution_clock::now();
     uint64_t result = calculator.GetBinomialCoefficient(n, k);
