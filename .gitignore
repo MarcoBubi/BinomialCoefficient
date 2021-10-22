@@ -53,3 +53,10 @@ GfxFileInfo.xml
 .vs
 *.log
 *.enc
+
+x64
+Debug
+Release
+GTestBinomialCoefficient/Debug
+LibBinomial/Debug
+packages
